@@ -64,7 +64,7 @@ import { useState } from 'react'
             где создают и помогают!
           </p>
           <div className="flex gap-3">
-            <button className="bg-white rounded-full px-7 py-3.5 text-2xl w-[360px] h-[67px] text-nowrap cursor-pointer hover:bg-gray-400 transition">
+            <button className="bg-white rounded-full px-7 py-3.5 text-2xl w-[360px] h-[67px] text-nowrap cursor-pointer hover:bg-gray-400 transitionп">
               Вступить в движение!
             </button>
             <button className="text-white border-2 border-white/70 rounded-full px-7 py-3.5 text-2xl w-[220px] cursor-pointer">
